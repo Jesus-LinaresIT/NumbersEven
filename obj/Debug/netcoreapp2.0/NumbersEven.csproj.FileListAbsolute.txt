@@ -1,0 +1,11 @@
+C:\Users\raule\Source\repos\NumbersEven\NumbersEven\bin\Debug\netcoreapp2.0\NumbersEven.deps.json
+C:\Users\raule\Source\repos\NumbersEven\NumbersEven\bin\Debug\netcoreapp2.0\NumbersEven.runtimeconfig.json
+C:\Users\raule\Source\repos\NumbersEven\NumbersEven\bin\Debug\netcoreapp2.0\NumbersEven.runtimeconfig.dev.json
+C:\Users\raule\Source\repos\NumbersEven\NumbersEven\bin\Debug\netcoreapp2.0\NumbersEven.dll
+C:\Users\raule\Source\repos\NumbersEven\NumbersEven\bin\Debug\netcoreapp2.0\NumbersEven.pdb
+C:\Users\raule\Source\repos\NumbersEven\NumbersEven\obj\Debug\netcoreapp2.0\NumbersEven.csprojResolveAssemblyReference.cache
+C:\Users\raule\Source\repos\NumbersEven\NumbersEven\obj\Debug\netcoreapp2.0\NumbersEven.csproj.CoreCompileInputs.cache
+C:\Users\raule\Source\repos\NumbersEven\NumbersEven\obj\Debug\netcoreapp2.0\NumbersEven.AssemblyInfoInputs.cache
+C:\Users\raule\Source\repos\NumbersEven\NumbersEven\obj\Debug\netcoreapp2.0\NumbersEven.AssemblyInfo.cs
+C:\Users\raule\Source\repos\NumbersEven\NumbersEven\obj\Debug\netcoreapp2.0\NumbersEven.dll
+C:\Users\raule\Source\repos\NumbersEven\NumbersEven\obj\Debug\netcoreapp2.0\NumbersEven.pdb
